@@ -43,7 +43,8 @@ Berikut merupakan halaman Second Blog:
 Pertanyaan : Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
 
 Jawaban:
-
+Terdapat banyak kekurangan jika menggunakan nested routing, yaitu:
+memiliki tingkat kompleksitas route yang tinggi, menyebabkan waktu loading lebih lama, meningkatkan kemungkinan kesalahan, dan kesulitan dalam pengujian dan pemeliharaan program.
 
 ## Praktikum 3
 Berikut merupakan halaman products dengan mengimplementasikan Dynamic Routing
@@ -64,5 +65,14 @@ Caranya adalah dengan membuat folder `reviews` di dalam folder `[productId]`. Ke
 Hasil:
 ![alt text](asset-report/praktikum3-c.png)
 
+## Praktikum 4
+Halaman Home:
+![alt text](asset-report/praktikum4-a.png)
 
+Ketika klik link Profile, akan langsung membuka halaman Profile:
+![alt text](asset-report/praktikum1-c.png)
+
+
+Ketika klik link About, akan langsung membuka halaman About:
+![alt text](asset-report/praktikum1-b.png)
 
