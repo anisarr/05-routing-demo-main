@@ -45,4 +45,24 @@ Pertanyaan : Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pad
 Jawaban:
 
 
+## Praktikum 3
+Berikut merupakan halaman products dengan mengimplementasikan Dynamic Routing
+![alt text](asset-report/praktikum3-a.png)
+
+Todo 1: Perbaiki implementasi Praktikum 2 menggunakan Dynamic Routes
+
+Yaitu dengan menghapus folder first dan second terlebih dahulu. Kemudian, membuat folder baru dengan nama `[urutanBlogs]` dan membuat file `page.tsx`. Lalu, menuliskan kode sebagai berikut:
+![alt text](asset-report/praktikum3-b.png)
+
+
+Todo 2: Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing 
+`/products/[productId]/reviews/[reviewId]`
+
+Caranya adalah dengan membuat folder `reviews` di dalam folder `[productId]`. Kemudian di dalam folder `reviews` membuat folder baru dengan nama `[reviewId]` dan membuat file `page.tsx` didalamnya. Kemudian menulis kode dibawah ini pada file `page.tsx` sebagai berikut:
+![alt text](asset-report/praktikum3-d.png)
+
+Hasil:
+![alt text](asset-report/praktikum3-c.png)
+
+
 
