@@ -30,4 +30,19 @@ Untuk menampilkan halaman abaout dengan mengubah routing menjadi `http://localho
 Berikum merupakan halaman profile
 ![alt text](asset-report/praktikum1-c.png)
 
+## Praktikum 2
+Berikut merupakan halaman Main Blog:
+![alt text](asset-report/praktikum2-a.png)
+
+Berikut merupakan halaman First Blog:
+![alt text](asset-report/praktikum2-b.png)
+
+Berikut merupakan halaman Second Blog:
+![alt text](asset-report/praktikum2-c.png)
+
+Pertanyaan : Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+
+Jawaban:
+
+
 
